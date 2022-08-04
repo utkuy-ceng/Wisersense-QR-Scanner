@@ -1,0 +1,2 @@
+# Wisersense QR Scanner
+ 
